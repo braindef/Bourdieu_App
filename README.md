@@ -60,3 +60,9 @@ i have good and bad times:
     * someone really hurt me, existencial crisis
     * in such situations only people i really trust can help me
 
+
+
+
+![https://github.com/HackersCardgame/Bourdieu_App/blob/main/schizophrenic.png][https://github.com/HackersCardgame/Bourdieu_App/blob/main/schizophrenic.png]
+
+
