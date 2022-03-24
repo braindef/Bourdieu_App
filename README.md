@@ -46,19 +46,17 @@ i have good and bad times:
 * if I talk to my teddy bear:
     * just let me talk to my teddy
 
-
-
-* if I annoy you with tons of emails: unsolved busines that needs to be mitigated, otherwise i decompensate
+* if I annoy you with tons of emails:
+    * unsolved busines that needs to be mitigated, otherwise i decompensate
     * maybe having a fair conversation with me would be helpful, maybe for both
-
-
 
 * if you see me in a shop and i act like i stole something
     * i don't steal, you confuse paranoja with guilt
 
-
-
 * if i ignore you (i guess that never hapened, normally i'm the ignored one)
     * maybe you ended up in the spam folder or you hurt me so much that i must protect myself
 
+* if i throw my head against the wall or otherwise hurt myself
+    * someone really hurt me, existencial crisis
+    * in such situations only people i really trust can help me
 
