@@ -44,12 +44,15 @@ i have good and bad times:
     * just let me talk to my teddy
 
 
+
 * if I annoy you with tons of emails: unsolved busines that needs to be mitigated, otherwise i decompensate
     * maybe having a fair conversation with me would be helpful, maybe for both
 
 
+
 * if you see me in a shop and i act like i stole something
     * i don't steal, you confuse paranoja with guilt
+
 
 
 * if i ignore you (i guess that never hapened, normally i'm the ignored one)
