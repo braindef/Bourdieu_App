@@ -1,5 +1,5 @@
 # Bourdieu_App
-### Named Entity Ship model + App of Pierre Bourdieus Theory (2022: early alpha stage)
+### Named Entity Ship model + App of Pierre Bourdieus Theory (2022: early pre-alpha stage)
 
 
 I suffer from schizophrenia since 20 years. The treatment of schizophrenic people from Mental Institution Königsfelden Kanton Aargau mainly consists out of drugging people -- even without consent -- without talking about the situation that caused the current psychosis like eg. "Open Dialog" [1] does.
