@@ -40,16 +40,16 @@ In my opinion, Bourdieu's concept is complex enough to also give the 1% of schiz
 - i'm now on disability
 
 i have good and bad times:
-- if I talk to my teddy bear:
- - just let me talk to my teddy
+* if I talk to my teddy bear:
+ * just let me talk to my teddy
 
-- if I annoy you with tons of emails: unsolved busines that needs to be mitigated, otherwise i decompensate
- - maybe having a fair conversation with me would be helpful, maybe for both
+* if I annoy you with tons of emails: unsolved busines that needs to be mitigated, otherwise i decompensate
+ * maybe having a fair conversation with me would be helpful, maybe for both
 
-- if you see me in a shop and i act like i stole something
- - i don't steal, you confuse paranoja with guilt
+* if you see me in a shop and i act like i stole something
+ * i don't steal, you confuse paranoja with guilt
 
-- if i ignore you (i guess that never hapened, normally i'm the ignored one)
- - maybe you ended up in the spam folder or you hurt me so much that i must protect myself
+* if i ignore you (i guess that never hapened, normally i'm the ignored one)
+ * maybe you ended up in the spam folder or you hurt me so much that i must protect myself
 
 
