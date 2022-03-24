@@ -29,7 +29,7 @@ In my opinion, Bourdieu's concept is complex enough to also give the 1% of schiz
 
 
 
-### Disclamer to my, myself and my teddy bear
+### Disclamer to me, myself and my teddy bear
 
 - studied Computer Scineces at FHA (today FHNW)
 - failed my bachelor
@@ -38,6 +38,9 @@ In my opinion, Bourdieu's concept is complex enough to also give the 1% of schiz
 - got my diploma
 - schizophrenia got worse, lost my job about once a year
 - i'm now on disability
+
+
+### Manual to me, myself end my teddy bear
 
 i have good and bad times:
 * if I talk to my teddy bear:
