@@ -26,3 +26,30 @@ In my opinion, Bourdieu's concept is complex enough to also give the 1% of schiz
 [1] https://en.wikipedia.org/wiki/Open_Dialogue
 
 [2] https://files.www.soziothek.ch/source/FHNW%20Bachelor-Thesen/Soziale%20Integration%20und%20Inklusion_Dizdar.pdf
+
+
+
+### Disclamer to my, myself and my teddy bear
+
+- studied Computer Scineces at FHA (today FHNW)
+- failed my bachelor
+- workt as a plant worker
+- started studying computer sciences at ABB Technikerschule Baden
+- got my diploma
+- schizophrenia got worse, lost my job about once a year
+- i'm now on disability
+
+i have good and bad times:
+- if I talk to my teddy bear:
+-- just let me talk to my teddy
+
+- if I annoy you with tons of emails: unsolved busines that needs to be mitigated, otherwise i decompensate
+-- maybe having a fair conversation with me would be helpful, maybe for both
+
+- if you see me in a shop and i act like i stole something
+-- i don't steal, you confuse paranoja with guilt
+
+- if i ignore you
+-- maybe you ended up in the spam folder or you hurt me so much that i must protect myself
+
+
