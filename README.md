@@ -56,7 +56,7 @@ i have good and bad times:
 * if i ignore you (i guess that never hapened, normally i'm the ignored one)
     * maybe you ended up in the spam folder or you hurt me so much that i must protect myself
 
-* if i throw my head against the wall or otherwise hurt myself
+* if i hit my head against the wall or cut myself (self-harm) 
     * someone really hurt me, existencial crisis
     * in such situations only people i really trust can help me
 
