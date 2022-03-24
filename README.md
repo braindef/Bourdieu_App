@@ -63,6 +63,6 @@ i have good and bad times:
 
 
 
-![https://github.com/HackersCardgame/Bourdieu_App/blob/main/schizophrenic.png][https://github.com/HackersCardgame/Bourdieu_App/blob/main/schizophrenic.png]
+!(https://github.com/HackersCardgame/Bourdieu_App/blob/main/schizophrenic.png)[https://github.com/HackersCardgame/Bourdieu_App/blob/main/schizophrenic.png]
 
 
