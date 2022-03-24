@@ -45,7 +45,7 @@ i have good and bad times:
 
 
 * if I annoy you with tons of emails: unsolved busines that needs to be mitigated, otherwise i decompensate
- * maybe having a fair conversation with me would be helpful, maybe for both
+    * maybe having a fair conversation with me would be helpful, maybe for both
 
 
 * if you see me in a shop and i act like i stole something
