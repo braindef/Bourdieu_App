@@ -11,7 +11,7 @@ so the idea is to write some sort of Application with an easy to use user-interf
 the website shall consist of a backend [for the momenet i think this will be LAMP] and a nice GUI [for the moment i think this will be a fancy javascript app]
 
 
-I would like to point here the the bachelor thesis of Aida Dizdar [2] because she already describes roughly what such a software should do and thanks to her bachelor thesis I had the idea of writing such a software.
+I would like to point here to the bachelor thesis of Aida Dizdar [2] because she already describes roughly what such a software should do and thanks to her bachelor thesis I had the idea of writing such a software.
 
 
 that is presumably the task of sociology.
@@ -19,7 +19,7 @@ that is presumably the task of sociology.
 The problem of sociology, which tries to reproduce behaviour in groups or betterto predict them, problem of such things is that if one uses to much parameters the Entity Relationship Model becomes to big and complicated where it ends in denial of service or spam oneself with to much parameters.
 
 
-In my opinion, Bourdieu's concept is complex enough to also give the 1% of schizophrenic people a place / illusio to live but does not have the problem of being to bloated.
+In my opinion, Bourdieu's concept is complex enough to also give the 1% of schizophrenic people a place / illusio to life but does not have the problem of being to bloated.
 
 
 
